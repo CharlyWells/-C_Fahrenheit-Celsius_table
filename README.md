@@ -9,4 +9,10 @@ Inside the temp.c file is the code used to print the fahrenheit temperatures equ
                      -                               -
                        -                           -
                          -                       -
-                               -      -     -
+                               -      -     -      
+
+
+
+
+
+In the C file float was used over integer because when doing division with the data type int the result is truncated, which means the original result is never arrived at.
